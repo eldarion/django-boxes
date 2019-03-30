@@ -40,8 +40,6 @@ Django apps, themes, and starter project templates. This collection can be found
 
 `pinax-boxes` is an app for including boxes of admin-controllable content in templates.
 
-#### Features
-
 #### Supported Django and Python versions
 
 Django \ Python | 2.7 | 3.4 | 3.5 | 3.6
