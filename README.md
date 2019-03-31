@@ -1,5 +1,3 @@
-![](http://pinaxproject.com/pinax-design/patches/pinax-boxes.svg)
-
 # Pinax Boxes
 
 [![](https://img.shields.io/pypi/v/pinax-boxes.svg)](https://pypi.python.org/pypi/pinax-boxes/)
